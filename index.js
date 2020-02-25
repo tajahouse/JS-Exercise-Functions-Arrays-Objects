@@ -310,7 +310,7 @@ return num + 5}
 ; // code here!
 const argTimesTwo = (num) => {
   return num * 2
-}; // code here!
+}; // code here!   
 
 /**
  * ### Challenge `carMaker`
